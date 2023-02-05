@@ -6,5 +6,8 @@ Step-functions
 
 
 
+-----------------------------------------------------
 
-<img width="974" alt="Screenshot 2023-02-05 at 16 27 31" src="https://user-images.githubusercontent.com/95050185/216828613-139b7ba9-e533-4339-b8b3-a476b41c2a89.png">
+
+
+<img width="412" alt="Screenshot 2023-02-05 at 16 32 17" src="https://user-images.githubusercontent.com/95050185/216828744-059c051d-7a02-4533-b8ee-8426956f4f1e.png">
