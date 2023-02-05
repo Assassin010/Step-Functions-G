@@ -4,38 +4,7 @@ Step-functions
 
 
 
-.
-├── Workflow
-│   ├── LICENSE
-│   ├── apiGw-trigger-sqs.tf
-│   ├── backend.tf
-│   ├── cloudwatch.tf
-│   ├── data
-│   │   └── demo.csv
-│   ├── function1.py
-│   ├── function2.py
-│   ├── function3.py
-│   ├── function4.py
-│   ├── function5.py
-│   ├── iam-roles-sqs-lambda.tf
-│   ├── lambda-trigger-sfn
-│   │   └── handler.py
-│   ├── lambda-trigger-sfn.tf
-│   ├── lambdas.tf
-│   ├── outputs.tf
-│   ├── policies
-│   │   ├── api-gateway-permission.json
-│   │   └── lambda-permission.json
-│   ├── providers.tf
-│   ├── sns.tf
-│   ├── sqs-events-dlq.tf
-│   ├── sqs-trigger-lambda.tf
-│   ├── state-machine.json
-│   ├── state-machine.tf
-│   ├── terraform.tfvars
-│   ├── terragrunt.hcl
-│   └── variables.tf
-└── terragrunt.hcl
 
 
 
+<img width="974" alt="Screenshot 2023-02-05 at 16 27 31" src="https://user-images.githubusercontent.com/95050185/216828613-139b7ba9-e533-4339-b8b3-a476b41c2a89.png">
